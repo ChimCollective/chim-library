@@ -1,0 +1,43 @@
+body {
+  overflow-y: hidden;
+}
+
+h2 {
+  padding: 20px 0;
+  text-align: center;
+  color: white;
+  background-color: black;
+  margin: 15px 0;
+}
+
+h3 {
+  margin-bottom: 20px;
+  padding: 7px 0;
+  text-align: center;
+}
+
+.card-body {
+  text-align: center;
+  padding: 5px;
+}
+
+.card-text {
+  font-size: 20px;
+}
+
+.nav-ver a {
+  margin-bottom: 30px;
+  color: black !important;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.nav-ver {
+  height: calc(100vh);
+  overflow-y: scroll;
+}
+
+.col-9 {
+  height: calc(100vh);
+  overflow-y: scroll;
+}
