@@ -67,3 +67,7 @@ p{
   height: calc(100vh);
   overflow-y: scroll;
 }
+
+.card:hover{
+  background-color: #E8F3F9;
+}
